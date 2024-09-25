@@ -2,8 +2,8 @@
 
 <p align="center">
 <img src="images/oscillator_animation.gif" alt="PINNs for harmonic oscillator">
-<i>Animation illustrating a PINN model applied to an Harmonic Oscillator Problem</i>
 </p>
+<p  align="center"><i>Animation illustrating a PINN model applied to an Harmonic Oscillator Problem</i></p>
 
 Physics-Informed Neural Networks (PINNs) are neural networks that integrate the principles of physics into the learning process enabling them to solve supervised learning tasks while ensuring adherence to physical laws represented by partial differential equations (PDEs). They serve as universal function approximators, capable of embedding knowledge of the governing physics within the data, thereby enhancing the model's ability to achieve accurate and physically consistent predictions.
 
